@@ -1,6 +1,7 @@
 .stub {
   font-style: italic;
+  opacity: 0.5;
 }
 .stub::before {
-  content: ".";
+  content: "... ";
 }

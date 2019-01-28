@@ -1,0 +1,6 @@
+.stub {
+  font-style: italic;
+}
+.stub::before {
+  content: ".";
+}

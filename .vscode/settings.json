@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/_build": true
+  },
+  "restructuredtext.confPath": "${workspaceFolder}/docs"
+}
